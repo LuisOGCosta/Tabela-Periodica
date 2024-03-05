@@ -1,0 +1,27 @@
+.linha1 {border:none}
+
+body{
+width: 99%;
+height: 850px
+}
+
+table{
+width: 100%;
+height: 100%
+}
+
+
+
+td{
+border: solid 1px;
+width: 5%;
+height: 7.6%
+}
+
+.branco{
+color:white
+}
+
+.naometais{
+    color:purple
+}
